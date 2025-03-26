@@ -1,0 +1,14 @@
+C:\Users\Steven\source\repos\Rendu2 PSI\bin\Debug\net8.0\Rendu2 PSI.exe
+C:\Users\Steven\source\repos\Rendu2 PSI\bin\Debug\net8.0\Rendu2 PSI.deps.json
+C:\Users\Steven\source\repos\Rendu2 PSI\bin\Debug\net8.0\Rendu2 PSI.runtimeconfig.json
+C:\Users\Steven\source\repos\Rendu2 PSI\bin\Debug\net8.0\Rendu2 PSI.dll
+C:\Users\Steven\source\repos\Rendu2 PSI\bin\Debug\net8.0\Rendu2 PSI.pdb
+C:\Users\Steven\source\repos\Rendu2 PSI\obj\Debug\net8.0\Rendu2 PSI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\source\repos\Rendu2 PSI\obj\Debug\net8.0\Rendu2 PSI.AssemblyInfoInputs.cache
+C:\Users\Steven\source\repos\Rendu2 PSI\obj\Debug\net8.0\Rendu2 PSI.AssemblyInfo.cs
+C:\Users\Steven\source\repos\Rendu2 PSI\obj\Debug\net8.0\Rendu2 PSI.csproj.CoreCompileInputs.cache
+C:\Users\Steven\source\repos\Rendu2 PSI\obj\Debug\net8.0\Rendu2 PSI.dll
+C:\Users\Steven\source\repos\Rendu2 PSI\obj\Debug\net8.0\refint\Rendu2 PSI.dll
+C:\Users\Steven\source\repos\Rendu2 PSI\obj\Debug\net8.0\Rendu2 PSI.pdb
+C:\Users\Steven\source\repos\Rendu2 PSI\obj\Debug\net8.0\Rendu2 PSI.genruntimeconfig.cache
+C:\Users\Steven\source\repos\Rendu2 PSI\obj\Debug\net8.0\ref\Rendu2 PSI.dll

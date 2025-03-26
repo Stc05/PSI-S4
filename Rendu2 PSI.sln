@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rendu2 PSI", "Rendu2 PSI.csproj", "{7124B8B2-9F09-4ED9-BE10-04FA2CF3839E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests Rendu2", "..\Tests Rendu2\Tests Rendu2.csproj", "{3AB5DF94-67C6-4BB3-8DD8-EA691538700B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7124B8B2-9F09-4ED9-BE10-04FA2CF3839E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7124B8B2-9F09-4ED9-BE10-04FA2CF3839E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7124B8B2-9F09-4ED9-BE10-04FA2CF3839E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7124B8B2-9F09-4ED9-BE10-04FA2CF3839E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB5DF94-67C6-4BB3-8DD8-EA691538700B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB5DF94-67C6-4BB3-8DD8-EA691538700B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB5DF94-67C6-4BB3-8DD8-EA691538700B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB5DF94-67C6-4BB3-8DD8-EA691538700B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {794F5AAB-033C-4265-85DA-1D3E4C567735}
+	EndGlobalSection
+EndGlobal
