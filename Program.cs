@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.Write("hello world");
             AuthService authService = new AuthService();
             CuisinierService cuisinierService = new CuisinierService();
             PlatService platService = new PlatService();
