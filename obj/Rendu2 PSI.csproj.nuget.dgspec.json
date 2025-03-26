@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steven\\source\\repos\\Rendu2 PSI\\Rendu2 PSI.csproj": {}
+    "C:\\Users\\justi\\OneDrive\\Documents\\GitHub\\Projet-boggle\\PSI-S4\\Rendu2 PSI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steven\\source\\repos\\Rendu2 PSI\\Rendu2 PSI.csproj": {
+    "C:\\Users\\justi\\OneDrive\\Documents\\GitHub\\Projet-boggle\\PSI-S4\\Rendu2 PSI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steven\\source\\repos\\Rendu2 PSI\\Rendu2 PSI.csproj",
+        "projectUniqueName": "C:\\Users\\justi\\OneDrive\\Documents\\GitHub\\Projet-boggle\\PSI-S4\\Rendu2 PSI.csproj",
         "projectName": "Rendu2 PSI",
-        "projectPath": "C:\\Users\\Steven\\source\\repos\\Rendu2 PSI\\Rendu2 PSI.csproj",
-        "packagesPath": "C:\\Users\\Steven\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Steven\\source\\repos\\Rendu2 PSI\\obj\\",
+        "projectPath": "C:\\Users\\justi\\OneDrive\\Documents\\GitHub\\Projet-boggle\\PSI-S4\\Rendu2 PSI.csproj",
+        "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\justi\\OneDrive\\Documents\\GitHub\\Projet-boggle\\PSI-S4\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Steven\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,12 +50,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
