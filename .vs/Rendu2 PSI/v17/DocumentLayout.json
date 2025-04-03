@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Steven\\Documents\\GitHub\\BoggleVF\\PSI-S4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7124B8B2-9F09-4ED9-BE10-04FA2CF3839E}|Rendu2 PSI.csproj|c:\\users\\steven\\documents\\github\\bogglevf\\psi-s4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7124B8B2-9F09-4ED9-BE10-04FA2CF3839E}|Rendu2 PSI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7124B8B2-9F09-4ED9-BE10-04FA2CF3839E}|Rendu2 PSI.csproj|c:\\users\\steven\\documents\\github\\bogglevf\\psi-s4\\noeud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7124B8B2-9F09-4ED9-BE10-04FA2CF3839E}|Rendu2 PSI.csproj|solutionrelative:noeud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7124B8B2-9F09-4ED9-BE10-04FA2CF3839E}|Rendu2 PSI.csproj|c:\\users\\steven\\documents\\github\\bogglevf\\psi-s4\\lien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7124B8B2-9F09-4ED9-BE10-04FA2CF3839E}|Rendu2 PSI.csproj|solutionrelative:lien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7124B8B2-9F09-4ED9-BE10-04FA2CF3839E}|Rendu2 PSI.csproj|c:\\users\\steven\\documents\\github\\bogglevf\\psi-s4\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7124B8B2-9F09-4ED9-BE10-04FA2CF3839E}|Rendu2 PSI.csproj|solutionrelative:graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\GitHub\\BoggleVF\\PSI-S4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\GitHub\\BoggleVF\\PSI-S4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:15:11.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Noeud.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\GitHub\\BoggleVF\\PSI-S4\\Noeud.cs",
+              "RelativeDocumentMoniker": "Noeud.cs",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\GitHub\\BoggleVF\\PSI-S4\\Noeud.cs",
+              "RelativeToolTip": "Noeud.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:15:01.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lien.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\GitHub\\BoggleVF\\PSI-S4\\Lien.cs",
+              "RelativeDocumentMoniker": "Lien.cs",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\GitHub\\BoggleVF\\PSI-S4\\Lien.cs",
+              "RelativeToolTip": "Lien.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:45:29.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\Steven\\Documents\\GitHub\\BoggleVF\\PSI-S4\\Graph.cs",
+              "RelativeDocumentMoniker": "Graph.cs",
+              "ToolTip": "C:\\Users\\Steven\\Documents\\GitHub\\BoggleVF\\PSI-S4\\Graph.cs",
+              "RelativeToolTip": "Graph.cs",
+              "ViewState": "AQIAAEUCAAAAAAAAAAAowF8CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:45:17.929Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

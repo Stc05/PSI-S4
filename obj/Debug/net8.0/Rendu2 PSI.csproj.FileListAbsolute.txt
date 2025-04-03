@@ -12,3 +12,18 @@ C:\Users\Steven\source\repos\Rendu2 PSI\obj\Debug\net8.0\refint\Rendu2 PSI.dll
 C:\Users\Steven\source\repos\Rendu2 PSI\obj\Debug\net8.0\Rendu2 PSI.pdb
 C:\Users\Steven\source\repos\Rendu2 PSI\obj\Debug\net8.0\Rendu2 PSI.genruntimeconfig.cache
 C:\Users\Steven\source\repos\Rendu2 PSI\obj\Debug\net8.0\ref\Rendu2 PSI.dll
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\obj\Debug\net8.0\Rendu2 PSI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\obj\Debug\net8.0\Rendu2 PSI.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\obj\Debug\net8.0\Rendu2 PSI.AssemblyInfo.cs
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\obj\Debug\net8.0\Rendu2 PSI.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\obj\Debug\net8.0\Rendu2 PSI.sourcelink.json
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\obj\Debug\net8.0\Rendu2 PSI.dll
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\obj\Debug\net8.0\refint\Rendu2 PSI.dll
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\obj\Debug\net8.0\Rendu2 PSI.pdb
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\bin\Debug\net8.0\Rendu2 PSI.exe
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\bin\Debug\net8.0\Rendu2 PSI.deps.json
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\bin\Debug\net8.0\Rendu2 PSI.runtimeconfig.json
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\bin\Debug\net8.0\Rendu2 PSI.dll
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\bin\Debug\net8.0\Rendu2 PSI.pdb
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\obj\Debug\net8.0\Rendu2 PSI.genruntimeconfig.cache
+C:\Users\Steven\Documents\GitHub\BoggleVF\PSI-S4\obj\Debug\net8.0\ref\Rendu2 PSI.dll
